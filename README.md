@@ -74,7 +74,11 @@ python Ian-The-Ripper.py --session my_session.json
 
 
 
-
 How to install 
 
-git clone https://github
+git clone https://github.com/Ian-the-Ripper/Ian-The-Ripper.git
+
+
+How to run
+
+python Ian-The-Ripper.py
